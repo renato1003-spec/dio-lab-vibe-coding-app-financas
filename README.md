@@ -1,6 +1,6 @@
-# 💸 App de Finanças Pessoais Virtual do Renato com Vibe Coding
+# 💸 App de Finanças Pessoais Virtual de Renato utilizando Vibe Coding
 
-PRD REVISADO NO COPILOT WEB E UTILIZADO NO LOVABLE
+MEU PRD REVISADO NO COPILOT WEB E UTILIZADO NO LOVABLE FOI:
 ```markdown
 # PRD – Aplicativo de Organização de Finanças Pessoais
 
@@ -48,6 +48,8 @@ O desafio é criar uma solução que combine simplicidade e inteligência automa
 
 INTERAÇÕES COM O LOVABLE
 
+Após o refinamento do PRD utilizando o Copilot Web, fiz a seguinte interação com o Lovable:
+
 >Crie um App de Finanças Pessoais com base no seguinte PRD (Product Requirements Document): {PRD}
 
 Resultado Final no Lovable: https://id-preview-035fa26d--efb30b93-03e3-48f5-88a5-2c16dd389c23.lovable.app
@@ -56,12 +58,12 @@ Resultado Final no Lovable: https://id-preview-035fa26d--efb30b93-03e3-48f5-88a5
 <img width="890" height="872" alt="image" src="https://github.com/user-attachments/assets/a1ae5645-709b-4323-927c-7be0e0e487a9" />
 <img width="807" height="869" alt="image" src="https://github.com/user-attachments/assets/eadd09e2-dce4-4b02-8d97-548d776ea062" />
   
-  ## Reflexão sobre o processo:
+  ## Reflexões sobre o processo:
   ### O que funcionou bem?
-  Utilizar o Copilot Web para fazer o refinamento do PRD.
+  Utilizar o Copilot Web para fazer o refinamento do PRD. Achei as respostas do Copilot Web assertivas dentro do que foi proposto. A explicação de conceitos também foi bem satisfatória para usuários iniciantes como eu.
   
   ### O que não funcionou como o esperado?
-  Esperava a criação de uma plataforma com mais funcionalidades. O Lovable gerou algo como um simples "chatbot", no entanto bem apresentável e simples de utilizar.
+  Esperava a criação pelo Lovable de uma "plataforma" com mais botões e funcionalidades. O Lovable gerou algo como um simples "chatbot", no entanto bem apresentável e simples de utilizar. Além disso, os botões de "Chat", "Metas" e "Relatórios" ficaram bem visíveis e de fácil utilização.
   
   ### O que aprendeu sobre conversar com IAs?
-  Aprendi que a utilização das ferramentas de IA tornam mais rápidos e fáceis os processos de criação e edição de funcionalidades, sem a necessidade de amplos conhecimentos de programação. A utilização de Vibe Coding torna todo o processo mais interativo com as IAs.
+  Aprendi que a utilização das ferramentas de IA tornam mais rápidos e fáceis os processos de criação e edição de funcionalidades, sem a necessidade de amplos conhecimentos de programação. A utilização de Vibe Coding torna todo o processo mais interativo com as IAs. Apesar das restrições de uso do Lovable para usuários não assinantes, as interações foram bem aceitas e os resultados visuais apresentados muito interessantes.
