@@ -5,15 +5,15 @@ MEU PRD REVISADO NO COPILOT WEB E UTILIZADO NO LOVABLE FOI:
 # PRD – Aplicativo de Organização de Finanças Pessoais
 
 ## 1. Contexto
-O objetivo é criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas em linguagem natural.  
-A proposta é simplificar o controle financeiro, eliminando a necessidade de formulários manuais ou planilhas complexas, tornando a experiência mais intuitiva e acessível.
+O objetivo foi criar um aplicativo de Organização de Finanças Pessoais, utilizando como "input" conversas em linguagem natural.  
+A proposta foi simplificar o controle financeiro, eliminando a necessidade de formulários manuais ou planilhas complexas, tornando a experiência mais intuitiva e acessível.
 
 ## 2. Problema
 Muitos usuários abandonam aplicativos de finanças porque:
 - Exigem entrada manual excessiva.  
 - Oferecem pouca personalização.  
 
-O desafio é criar uma solução que combine simplicidade e inteligência automatizada, oferecendo recomendações práticas de economia.
+O desafio foi criar uma solução que combinasse simplicidade e inteligência automatizada, oferecendo recomendações práticas de economia.
 
 ## 3. Público-Alvo
 - Pessoas que desejam iniciar o controle financeiro de forma prática e sem complicações.  
@@ -24,7 +24,7 @@ O desafio é criar uma solução que combine simplicidade e inteligência automa
 1. Registro de gastos via chat em linguagem natural.  
 2. Classificação automática das transações por categoria.  
 3. Definição e acompanhamento de metas financeiras (ex.: poupar R$500/mês).  
-4. Agente Financeiro que fornece dicas personalizadas de economia.  
+4. Agente Financeiro que forneça dicas personalizadas de economia.  
 5. Relatórios simples e personalizados, com visualização clara de gastos e progresso.  
 
 ## 5. Princípios de Design
@@ -36,8 +36,8 @@ O desafio é criar uma solução que combine simplicidade e inteligência automa
 - Principais telas:  
   - Tela de chat (entrada de dados e interação).  
   - Tela de metas financeiras.  
-  - Tela de relatórios e insights.  
-- Recursos necessários:  
+  - Tela de relatórios e insights.
+- Recursos necessários:
   - Processamento de linguagem natural (NLP).  
   - Motor de categorização automática de transações.  
   - Módulo de recomendações financeiras.  
@@ -66,4 +66,4 @@ Resultado Final no Lovable: https://id-preview-035fa26d--efb30b93-03e3-48f5-88a5
   Esperava a criação pelo Lovable de uma "plataforma" com mais botões e funcionalidades. O Lovable gerou algo como um simples "chatbot", no entanto bem apresentável e simples de utilizar. Além disso, os botões de "Chat", "Metas" e "Relatórios" ficaram bem visíveis e de fácil utilização.
   
   ### O que aprendeu sobre conversar com IAs?
-  Aprendi que a utilização das ferramentas de IA tornam mais rápidos e fáceis os processos de criação e edição de funcionalidades, sem a necessidade de amplos conhecimentos de programação. A utilização de Vibe Coding torna todo o processo mais interativo com as IAs. Apesar das restrições de uso do Lovable para usuários não assinantes, as interações foram bem aceitas e os resultados visuais apresentados muito interessantes.
+  Aprendi que a utilização das ferramentas de IA torna o processo de criação e edição de funcionalidades mais rápido, sem a necessidade de amplos conhecimentos de programação. A utilização de Vibe Coding torna todo o processo mais interativo com as IAs. Apesar das restrições de uso do Lovable para usuários não assinantes, as interações foram bem aceitas e os resultados visuais apresentados muito interessantes.
